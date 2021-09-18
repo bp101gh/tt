@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bp101gh.github.io/gr</id>
     <title>小站</title>
-    <updated>2021-09-18T15:12:36.785Z</updated>
+    <updated>2021-09-18T23:05:36.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bp101gh.github.io/gr"/>
     <link rel="self" href="https://bp101gh.github.io/gr/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://bp101gh.github.io/gr/images/avatar.png</logo>
     <icon>https://bp101gh.github.io/gr/favicon.ico</icon>
     <rights>All rights reserved 2021, 小站</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://bp101gh.github.io/gr/post/ce-shi/</id>
+        <link href="https://bp101gh.github.io/gr/post/ce-shi/">
+        </link>
+        <updated>2021-09-18T22:14:46.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新文章]]></title>
         <id>https://bp101gh.github.io/gr/post/xin-wen-zhang/</id>
